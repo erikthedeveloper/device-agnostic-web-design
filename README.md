@@ -5,6 +5,8 @@ See [The index.html](https://rawgithub.com/erikthedeveloper/device-agnostic-web-
 ### Some Useful Links ###
 
 * [Responsive.is](http://responsive.is/)
-* More coming soon...
+* [WebDesignerDepot](http://www.webdesignerdepot.com/2013/01/the-device-agnostic-approach-to-responsive-design/)
+* [coding.smashing...](http://coding.smashingmagazine.com/2012/03/22/device-agnostic-approach-to-responsive-web-design/)
+* [BradFrostWeb](http://bradfrostweb.com/blog/post/responsive-strategy/)
 
 
